@@ -1,0 +1,29 @@
+
+/* Custom Card */
+.Panel {
+  max-height: calc(100vh - 70px); 
+  overflow-x: hidden;
+  overflow-y: auto;
+  white-space: nowrap;
+  max-width:350px;
+}
+
+
+form {
+  margin: auto;
+  margin-bottom: 10vh;
+  max-height: 75vh;
+  max-width: calc(75vw - 50px);
+  align-items: center;
+  padding: 10px;
+}
+
+#registerwarning {
+  margin: auto;
+  margin-bottom: 10vh;
+  max-height: 75vh;
+  max-width: calc(75vw - 50px);
+  align-items: center;
+  padding: 10px;
+  font-size: 22px;
+}
